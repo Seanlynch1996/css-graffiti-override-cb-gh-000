@@ -22,3 +22,7 @@ div#wall .parent + .parent #tag-5.slick {
 div#wall .parent + .parent + .parent div #tag-6 {
   display:none;
 }
+
+#wall .parent div #tag-7 {
+  display:none;
+}
